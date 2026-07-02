@@ -1,2 +1,2 @@
 230
-https://api.xsilent.shop/XSILENTpro/connect
+aHR0cHM6Ly9hcGkueHNpbGVudC5zaG9wL1hTSUxFTlRwcm8vY29ubmVjdA
