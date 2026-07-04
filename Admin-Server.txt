@@ -1,2 +1,1 @@
-230
-https://admin-server.kuropanel.in/api/login
+240
