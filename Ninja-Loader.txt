@@ -1,2 +1,2 @@
 230
-https://api.ninjax.click/vip/connect
+aHR0cHM6Ly9hcGkubmluamF4LmNsaWNrL3ZpcC9jb25uZWN0
