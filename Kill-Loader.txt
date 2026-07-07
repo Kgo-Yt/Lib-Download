@@ -1,2 +1,2 @@
-220
-https://api.kill-loader.site/panel/connect
+230
+aHR0cHM6Ly9hcGkua2lsbC1sb2FkZXIuc2l0ZS9wYW5lbC9jb25uZWN0
