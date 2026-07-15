@@ -1,2 +1,2 @@
 230
-https://api.ezkeys.online/Nayak/connect
+aHR0cHM6Ly9hcGkuZXprZXlzLm9ubGluZS9OYXlhay9jb25uZWN0
